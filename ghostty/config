@@ -1,0 +1,8 @@
+theme = catppuccin-macchiato.conf
+background-opacity = 0.9
+background-blur = 10
+font-family = MesloLGS NF
+font-size = 14
+macos-titlebar-style = hidden
+link-url = true
+bell-features = system
